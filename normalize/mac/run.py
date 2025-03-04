@@ -1,4 +1,5 @@
 #LUFS target -12 dB
+#INTEL MAC
 
 #!/usr/bin/env python3
 import os
